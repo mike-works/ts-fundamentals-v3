@@ -1,4 +1,4 @@
-# TypeScript Training w/ Mike North
+# TypeScript Training w/ Mike North - TEST CHANGE
 This repo contains the code for `TypeScript Fundamentals v3` and `Intermediate TypeScript v1`
 
 ### Operating System
